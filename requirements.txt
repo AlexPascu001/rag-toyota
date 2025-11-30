@@ -1,0 +1,11 @@
+openai==2.8.1
+sentence-transformers==5.1.2
+faiss-cpu==1.13.0
+PyPDF2==3.0.1
+pandas==2.3.3
+streamlit==1.51.0
+duckdb==1.4.2
+python-dotenv==1.2.1
+langchain==1.1.0
+langchain-text-splitters==1.0.0
+tiktoken==0.12.0
